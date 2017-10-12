@@ -1,3 +1,4 @@
 
-# What's a REST API?
-Initially, the World Wide Web was created for documents (HTML). Today, there's a name for every type of entity that can be identified.
+# Basic REST API
+
+This is the repo for the Basic REST API tutorial [here](https://github.com/TarCode/basic-rest-api)
